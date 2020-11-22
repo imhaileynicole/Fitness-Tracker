@@ -1,4 +1,4 @@
-# Unit 17 Nosql Homework: Workout Tracker
+# Workout Tracker
 
 For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
 
@@ -42,10 +42,7 @@ Follow these guidelines for committing:
 
 We would like you to have well over 200 commits by graduation, so commit early and often!
 
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URL to the deployed application
-
-* The URL to the Github repository
+ ![](https://avatars1.githubusercontent.com/u/66336162?s=460&u=ccfd81b295fdd0741f792fc0656e043c7aaf9f63&v=4)
+  # Hailey Parker
+  ### [E-mail Me Here!](Hailey.parker@yahoo.com)
+---
